@@ -1,0 +1,14 @@
+C:\Users\lilsl\source\repos\Bread\bin\Debug\net6.0\Bread.exe
+C:\Users\lilsl\source\repos\Bread\bin\Debug\net6.0\Bread.deps.json
+C:\Users\lilsl\source\repos\Bread\bin\Debug\net6.0\Bread.runtimeconfig.json
+C:\Users\lilsl\source\repos\Bread\bin\Debug\net6.0\Bread.dll
+C:\Users\lilsl\source\repos\Bread\bin\Debug\net6.0\Bread.pdb
+C:\Users\lilsl\source\repos\Bread\obj\Debug\net6.0\Bread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilsl\source\repos\Bread\obj\Debug\net6.0\Bread.AssemblyInfoInputs.cache
+C:\Users\lilsl\source\repos\Bread\obj\Debug\net6.0\Bread.AssemblyInfo.cs
+C:\Users\lilsl\source\repos\Bread\obj\Debug\net6.0\Bread.csproj.CoreCompileInputs.cache
+C:\Users\lilsl\source\repos\Bread\obj\Debug\net6.0\Bread.dll
+C:\Users\lilsl\source\repos\Bread\obj\Debug\net6.0\refint\Bread.dll
+C:\Users\lilsl\source\repos\Bread\obj\Debug\net6.0\Bread.pdb
+C:\Users\lilsl\source\repos\Bread\obj\Debug\net6.0\Bread.genruntimeconfig.cache
+C:\Users\lilsl\source\repos\Bread\obj\Debug\net6.0\ref\Bread.dll
