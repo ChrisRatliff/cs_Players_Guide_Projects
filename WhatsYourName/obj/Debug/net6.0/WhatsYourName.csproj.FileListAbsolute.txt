@@ -1,0 +1,14 @@
+C:\Users\lilsl\source\repos\WhatsYourName\bin\Debug\net6.0\WhatsYourName.exe
+C:\Users\lilsl\source\repos\WhatsYourName\bin\Debug\net6.0\WhatsYourName.deps.json
+C:\Users\lilsl\source\repos\WhatsYourName\bin\Debug\net6.0\WhatsYourName.runtimeconfig.json
+C:\Users\lilsl\source\repos\WhatsYourName\bin\Debug\net6.0\WhatsYourName.dll
+C:\Users\lilsl\source\repos\WhatsYourName\bin\Debug\net6.0\WhatsYourName.pdb
+C:\Users\lilsl\source\repos\WhatsYourName\obj\Debug\net6.0\WhatsYourName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilsl\source\repos\WhatsYourName\obj\Debug\net6.0\WhatsYourName.AssemblyInfoInputs.cache
+C:\Users\lilsl\source\repos\WhatsYourName\obj\Debug\net6.0\WhatsYourName.AssemblyInfo.cs
+C:\Users\lilsl\source\repos\WhatsYourName\obj\Debug\net6.0\WhatsYourName.csproj.CoreCompileInputs.cache
+C:\Users\lilsl\source\repos\WhatsYourName\obj\Debug\net6.0\WhatsYourName.dll
+C:\Users\lilsl\source\repos\WhatsYourName\obj\Debug\net6.0\refint\WhatsYourName.dll
+C:\Users\lilsl\source\repos\WhatsYourName\obj\Debug\net6.0\WhatsYourName.pdb
+C:\Users\lilsl\source\repos\WhatsYourName\obj\Debug\net6.0\WhatsYourName.genruntimeconfig.cache
+C:\Users\lilsl\source\repos\WhatsYourName\obj\Debug\net6.0\ref\WhatsYourName.dll
