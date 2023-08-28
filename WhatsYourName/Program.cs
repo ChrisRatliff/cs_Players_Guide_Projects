@@ -2,4 +2,4 @@
 string name;
 Console.WriteLine("What's your name?");
 name = Console.ReadLine();
-Console.WriteLine("Fuck you " + name);
+Console.WriteLine("Hello, " + name);
